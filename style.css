@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  gap: 2rem;
+}
+
+.change-background {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+}
+
+.underline {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.user-btn {
+  cursor: pointer;
+}
